@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 #mysql8.0.36
 mysql:8.0.36
+
+--platform=linux/arm64 xiaoyaliu/alist
