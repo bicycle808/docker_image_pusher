@@ -10,3 +10,4 @@ mysql:8.0.36
 --platform=linux/arm64 mysql:8.0.36
 
 redis:6.0.0
+zookeeper:3.8.3
