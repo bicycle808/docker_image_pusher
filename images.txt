@@ -1,13 +1,11 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
-#mysql8.0.36
-mysql:8.0.36
+mysql:8.4.1
 
---platform=linux/arm64 mysql:8.0.36
+nacos/nacos-server:v2.5.1
 
-redis:6.0.0
-zookeeper:3.8.3
+apache/rocketmq:5.2.0
+
+apacherocketmq/rocketmq-dashboard:2.0.0
+
+xuxueli/xxl-job-admin:2.4.1
+
+seataio/seata-server:2.0.0
