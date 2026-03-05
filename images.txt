@@ -9,3 +9,5 @@ apacherocketmq/rocketmq-dashboard:2.0.0
 xuxueli/xxl-job-admin:2.4.1
 
 seataio/seata-server:2.0.0
+
+elastic/elasticsearch:7.17.20
